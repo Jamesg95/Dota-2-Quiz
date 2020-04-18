@@ -288,7 +288,7 @@ function createResultsPage(correctAnswers) {
     <main role="main">
         <section class="result">
             <div class="image">
-                <img src="https://steamuserimages-a.akamaihd.net/ugc/490148340910219341/128EEE33465D9C30D3F79EB4CFB3A2C64A007C6F/" alt="Hero Smiling!">
+                <img src="https://i.imgur.com/8KBwmLc.gif" alt="Hero Smiling!">
             </div>
             <h2>Are you that 9k player or do you need to practice with more bots???</h2>
             <p class="finalScore"> Final Score: <span class="score">${correctAnswers}</span>/10</p>
